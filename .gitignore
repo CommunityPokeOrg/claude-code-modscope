@@ -1,0 +1,4 @@
+# Written by Claude Code when it loads a mod (per-version type declarations)
+.claude-plugin/types/
+.claude/types/
+node_modules/

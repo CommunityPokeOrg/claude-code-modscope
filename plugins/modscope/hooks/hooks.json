@@ -1,0 +1,4 @@
+{
+  "description": "modscope: watches plugin.register and engine.create for the session's loaded mods, wraps every event in a * hook whose next.trace attributes hook failures and wall time to the plugin that caused them, and serves /modscope, mcp__modscope__* tools, an AbovePrompt status line and a pane.",
+  "modules": ["./modscope.mjs"]
+}

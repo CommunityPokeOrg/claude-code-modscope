@@ -1,0 +1,14 @@
+{
+  "name": "community-poke-mods",
+  "description": "Claude Code mods by CommunityPoke. Currently: modscope, a mod that debugs other mods.",
+  "owner": {
+    "name": "CommunityPoke"
+  },
+  "plugins": [
+    {
+      "name": "modscope",
+      "source": "./plugins/modscope",
+      "description": "A Claude Code mod that debugs other mods: loaded-mod inspection, per-plugin failure attribution from next.trace, event stats, a validator, and model-assisted diagnosis."
+    }
+  ]
+}

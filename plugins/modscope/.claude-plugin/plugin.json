@@ -1,0 +1,8 @@
+{
+  "name": "modscope",
+  "version": "0.1.0",
+  "description": "A mod for debugging mods: inspects the session's loaded mods, attributes hook failures (throws, timeouts, rejections) to the mod that caused them, times the chain per plugin, exposes /modscope plus mcp__modscope__* tools the model can call, and can ask the session's model to diagnose a failing mod from its own source.",
+  "author": {
+    "name": "CommunityPoke"
+  }
+}
